@@ -36,7 +36,7 @@ Formado como Técnico em Desenvolvimento de Sistemas pelo SENAI Londrina · Comp
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zyrexmt&theme=tokyo-night&hide_border=true" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zyrexmt&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -44,6 +44,6 @@ Formado como Técnico em Desenvolvimento de Sistemas pelo SENAI Londrina · Comp
 ### 📫 Contato
 
 <p align="center">
-<a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/matheusaleixoramos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:suehtamars@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
