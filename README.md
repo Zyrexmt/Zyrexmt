@@ -35,9 +35,7 @@ Formado como Técnico em Desenvolvimento de Sistemas pelo SENAI Londrina · Comp
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zyrexmt&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zyrexmt&theme=tokyo-night&hide_border=true" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zyrexmt&theme=tokyo-night&hide_border=true)
 
 ---
 
